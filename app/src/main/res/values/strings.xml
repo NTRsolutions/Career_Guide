@@ -1,0 +1,196 @@
+<resources>
+    <string name="app_name">Career_Guide</string>
+    <string name="title_activity_page2">page2</string>
+    <string name="title_activity_page3">page3</string>
+
+    <string name="discriptionITI"> ITI full form is Industrial Training Institutes. In our country India Industrial Training Centers are post-secondary schools that are constituted under Directorate General of Employment and Training (DGET), Union Government to provide training and Ministry of Skill Development and Entrepreneurship.
+    ITI course is taught for the students who want practical experience in educational field.
+   \n Eligibility:\n\n Candidates have to pass 8th class or 12th or 10th from any recognized university or college.\n\n
+
+List of Courses in ITI:\n
+* Electrician.\n
+* Wireman.\n
+* Mechanic Motor Vehicle.\n
+* Tool and Die Maker.\n
+* Turner.\n
+* Information Technology and E.S.M.\n
+* Machinist.\n
+* Refrigeration and Air Condition.\n
+* Draughtsman (Civil).\n
+* Draughtsman (Mechanical).\n
+* Fitter.\n
+* Instrument Mechanic.\n
+* Mechanic Radio and T.V.\n
+ Career After ITI:\nAfter completing ITI they can join in the engineering courses approved by AICTE. It is a three year program and they will have direct entry in second year
+
+
+</string>
+
+    <string name="List">Govt Iti in india</string>
+    <string name="ListinIndia">List of  top 10 govt. ITI in india-\n
+
+1.Industrial Training Institute  Haibatpur, Uttar Pradesh\n
+2.Kalinga  Industrial Training Institute  Bhubneshwar.\n
+3. Industrial Training Institute Chathannoor, Kerala\n
+4. Industrial Training Institute Kozhikode, Kerala.\n
+5. Industrial Training Institute Lalru Punjab.\n
+6. Industrial Training Institute Kottayam, Kerala.\n
+7. Industrial Training Institute Pussa New Delhi.\n
+8. Industrial Training Institute Mumbai.\n
+9. Industrial Training Institute Visakhapatnam.\n
+10. Industrial Training Institute Ernakulam, Kerala.
+
+</string>
+    <string name="ListinMp">List of govt.ITI in M.P.\n
+1.Govt. Industrial Training Institute Indore.\n
+2. Govt. Industrial Training Institute Khandwa.\n
+3. Govt. Industrial Training Institute Damoh. \n
+4. Govt. Industrial Training Institute Satna.\n
+5. Govt. Industrial Training Institute Chhappara Seoni\n
+6. Govt. Industrial Training Institute Bhargat Seoni.\n
+7. Govt. Industrial Training Institute Bina.\n
+8. Govt. Industrial Training Institute Bhind.\n
+9. Govt. Industrial Training Institute Anuppur.\n
+10. Govt. Industrial Training Institute Budni.\n
+</string>
+    <string name="diplomadiscription"><u><b>About :</b></u>\u0020 A diploma course in engineering involves classes on fundamental engineering concepts. It is a technical degree that only covers the essentials when ranked with an undergraduate degree.
+       \n  It aims to provide students with industry or job related knowledge, scientific skills, computing and analysis, mathematical techniques, a sound knowledge of English to communicate in the field and ability to apply problem solving techniques.
+        \nIt is a professional course, planned in such a way that students may still take up jobs in the field of engineering once they earn their diplomas. Diploma holders gets employment as technicians, technologists, supervisors, superintendents, foremen, machinist, workshop technicians, draughtsman, station technicians (energy, thermal, aeronautical), automobile technicians, maintenance and service technicians, equipment mechanics and technicians, CAD/CAM programmer, agricultural overseers, instrument technicians, junior instructors, manufacturing, tool and die designers, electricians...etc.
+
+       </string>
+    <string name="branch_diploma">	Aeronautical Engineering\n
+	Agriculture\n
+	Architecture Engineering\n
+	Automobile Engineering\n
+	Beauty Culture\n
+	Biomedical Engineering\n
+	Business Administration\n
+	Ceramic Technology\n
+	Chemical Engineering\n
+	Civil Engineering\n
+	Commercial Practice\n
+	Computer Engineering\n
+        Computer Science and Engineering\n
+	Computer Science and Technology\n
+	Cosmetology\n
+	Cyber Security\n
+	Dental Mechanics\n
+	Elect. and Communication\n
+	Electrical and Electronics Engineering\n
+	Electrical Engineering\n
+    Environmental Engineering\n
+	Fashion Technology\n
+	Fire Engineering\n
+	Fire Safety Engineering\n
+	Genetic Engineering
+	Hotel Mangement and Catering Technology\n
+	Mechanical Engineering\n
+	Mechatronics\n
+	Metallurgical Engineering\n
+	Mining Engineering\n
+	Modern Office Practice\n
+	Petroleum Engineering\n
+	Plastic Technology\n
+	Rubber Technology\n
+	Software Engineering\n
+	Textile Technology\n
+	3D Animation and many more....
+</string>
+	<string name="eligibility"> <b>Eligibility :</b> Candidates have to pass 10th or 12th class.\n\n
+    <b>Career after Diploma :</b> A student who has attained the diploma is usually eligible to enter B.Tech./B.E. programmes in the second year under a lateral entry scheme.</string>
+    <string name="title_activity_page10">page10</string>
+	<string name="polytechnic_colleges_india">
+		1.Government Polytechnic College Vijayapura Karnataka.\n
+2.	Ambedkar Institute of Technology,Delhi.\n
+3.	Government Polytechnic, Miraj Maharashtra.\n
+4.	Pusa Institute Of Technology New Delhi.\n
+5.	Government Polytechnic College Kanyakumari.\n
+6.	Government Polytechnic College Moga ,Punjab.\n
+7.	Karnataka (Govt.) Polytechnic.\n
+8.	Govt. Polytechnic College Satna.\n
+9.	Central Polytechnic College Channai.\n
+10.	Govt. Polytechnic College Vijayawada, Andhra Pradesh.\n
+</string>
+	<string name="listpolytechnic_mp">1.	S.R. Govt. Polytechnic college sagar.\n
+2.	S.R. Govt. Polytechnic college khandwa.\n
+3.	.Jija Mata Govt. Polytechnic College Bhurhanpur.\n
+4.	Kalaniketan Polytechnic College Jabalpur.\n
+5.	Sardar Vallabhbhai Polytechnic College Bhopal.\n
+6.	 Govt. Women’s Polytechnic College (GWPC) Khargone.\n
+7.	Shri Vaishnav Polytechnic College Indore.\n
+8.	Government Polytechnic College Chindwara.\n
+9.	.Govt Polytechnic College Tikamgarh.\n
+10.	.Govt polytechnic college Satna.\n
+</string>
+    <string name="title_activity_page12">page12</string>
+	<string name="agriculture_discription"> Agriculture plays a vital role in Indian economy.The agricultural industry is still the backbone of our economy. Despite all the technological advances made and plans executed in this area since Independence, there is a lot of untapped potential. If you’ve got a background in science, then post class 12, turning your focus to a career in agricultural science might be hugely beneficial to both you and the nation.
+		.\n
+		At present, students from all over the country are selecting the agriculture field after 12th for their career prospective.\n
+	Agricultural Science is a multidisciplinary field that comprises of a variety of scientific, technical and business subjects.
+		It promotes the efficient production of quality food in the agricultural-food industry and on the farm linked to the farming.</string>
+	<string name="title">Some of the specializations in Agriculture include:</string>
+	<string name="spectiolization_agriculture">Agronomy\n
+Turf-grass management
+\nPlant pathology
+\nHorticulture
+\nHydroponics
+\nWeed sciences
+\nPasture management
+\nAnimal nutrition and husbandry amongst several other agriculture-related disciplines
+	</string>
+	<string name="eligibility_agri"> Those aspirants who have passed XII with Science or agriculture  as the optional subject is eligible to apply to the entrance exams conducted for the selection of aspirants to the Agricultural course.
+
+</string>
+	<string name="admission_process">Different universities conduct Entrance exams for the selections of aspirants to the course of Agriculture. Other than this, Indian council of agricultural research also conducts entrance exams for the selection of suitable aspirants. Those with 50% marks in the XII exam are eligible to apply to this examination.
+
+</string>
+	<string name="list_agiculture"> 1.	Tamil nadu Agriculture University Coimbatore.\n
+2.	Acharya NG Ranga Agriculture University Angrau Hedrabad.\n
+3.	Punjab Agriculture University Ludhiyana.\n
+4.	Govind BallabhPant University of Agriculture and Technology Pantnagar.\n
+5.	Mahatma Phule Krishi Vidyapeeth  Pune.\n
+6.	DR. Rajendra Prasad Central Agriculture University Samastipur.\n
+7.	Junagadh Agriculture University , Junagadh.\n
+8.	Sam Higginbottom Institute of Agriculture Technology and Science, Allahabad.\n
+9.	Mahatma JyotiRao Phoole University Jaypur.\n
+10.	Jawaharlal Nehru Krishi Vishwa Vidyalaya Jabalpur.\n
+</string>
+	<string name="agri_college">1.	Tamil nadu Agriculture University Coimbatore.\n
+2.	Acharya NG Ranga Agriculture University Angrau Hedrabad.\n
+3.	Punjab Agriculture University Ludhiyana.\n
+4.	Anbil Dharmaniglam Agriculture College and Research Institute Thiruchirapalli.\n
+5.	Govind BallabhPant University of Agriculture and Technology Pantnagar.\n
+6.	Mahatma Phule Krishi Vidyapeeth  Pune.\n
+7.	Birsa Agriculture University Ranchi.\n
+8.	DR. Rajendra Prasad Central Agriculture University Samastipur.\n
+9.	Junagadh Agriculture University , Junagadh.\n
+10.	Sam Higginbottom Institute of Agriculture Technology and Science, Allahabad.\n
+.
+</string>
+	<string name="fashion_discription">By the modernization of the world, the fashion is part of our daily life. The world is growing in order to the fashion aspects. Various industries have been established for this purpose only. There is a great demand of fashion experts.
+	<i>“Fashion designing covers the design, fabric, texture, quality of fashion goods, manufacturing process and creativity”</i>
+		A fashion designer visualizes, plans and implements a dress or attire including its fabric, texture, color code, accessories etc. The design is sketched before the dress is put in for stitching and all nuances like comfort, size, season etc are taken into consideration for the same.Creating a style, using the right fabric, the right cut and a good finish, the designer turns out either a singular creation (one of its kind) that may sell for a king’s ransom, or more usually, outfits that will reach a retail outlet in different sizes and colours. In certain cases, the garment may even be mass-produced for a specific market.
+	</string>
+	<string name="journalism">Journalism is one of the fastest emerging career fields among the today’s young generation. This is one of the basics of journalism. In today’s world, people want to be aware all about the activities in the country, if it is about politics, celebrities, science and culture of India or from international affairs.
+
+Journalism is a proper way of communication between the news and the people. \nJournalism is basically depends on the principle of truth, editorial independence and disclosure. By the growing trend of media and technology, the people are being in touch through the radio, television, mobile, social media and the internet by the great efforts of the mass media. A journalist covers the information about the business, culture, politics, arts, economics, history, entertainment and sports.
+		\nIn simple terms, journalism is all about collecting and circulating/spreading information to a specific or general audience. This spreading of information can be done through two main mediums- Print Media and Electronic Media.\n Newspapers, magazines and circulars are well known forms of print media. Television, radio and internet entities (news portals, blogs and e magazines) are well known forms of electronic media.
+
+	</string>
+	<string name="specialization_journalism"> <b>You may pursue the courses in journalism or mass communication if any of subjects you had in 12th standard.</b></string>
+<string name="journalism_courses">B.A. with Journalism – 3 yrs\n
+Bachelor in Journalism (B.J) – 3 yrs\n
+Bachelor in Journalism and Mass Communication (BJMC) – 3 yrs\n
+B.A. with Mass Media – 3 yrs\n
+B.A. in script writing – 3 yrs\n
+BA in Convergent Journalism\n
+BA in Journalism and Communication Studies.\n
+B.Sc in Mass Communication and Journalism.\n
+B.Sc in Mass Communication, Journalism and Advertising.\n
+Bachelor in Media Science\n
+
+<b><u>Diploma Courses : \n
+</u></b>
+Diploma in Journalism and Mass Communication (DJMC) – 2 yrs
+Diploma in Journalism (DJ) – 1 yr</string>
+</resources>
